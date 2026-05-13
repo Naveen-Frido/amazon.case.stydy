@@ -201,7 +201,7 @@ function ProblemStatement() {
             I lead AI initiatives at Styldod Inc, a virtual staging company serving real estate clients across the US and Canada. Our client base includes agents and brokers operating within CRMLS — the largest MLS in the United States, reporting approximately 100 member-reported compliance violations every day (source: CRMLS blog).
           </p>
           <p className="text-slate-600 dark:text-slate-400 text-xl max-w-3xl leading-relaxed mb-6">
-            Through our CRMLS client relationships, we became acutely aware of a systemic problem: listing image compliance was entirely manual, slow, and inconsistent. Agents were waiting 15–30 days for compliance review on listings with an average of 60–65 images each. A single non-compliant image could cause an entire listing to be rejected.
+            Through our CRMLS client relationships, we became acutely aware of a systemic problem: listing image compliance was entirely manual, slow, and inconsistent. Agents were waiting 2–3 days for compliance review on listings with an average of 60–65 images each. A single non-compliant image could cause an entire listing to be rejected.
           </p>
 
         </motion.div>
@@ -351,7 +351,7 @@ function TaskSection() {
                 <li className="flex items-start gap-2"><span className="text-[#2563EB]">•</span> Reason contextually — distinguishing incidental from non-incidental violations</li>
                 <li className="flex items-start gap-2"><span className="text-[#2563EB]">•</span> Generate precise remediation prompts to remove or fix violations</li>
                 <li className="flex items-start gap-2"><span className="text-[#2563EB]">•</span> Operate at production scale with consistent, auditable outputs</li>
-                <li className="flex items-start gap-2"><span className="text-[#2563EB]">•</span> Be fast enough to replace 15–30 day manual review cycles</li>
+                <li className="flex items-start gap-2"><span className="text-[#2563EB]">•</span> Be fast enough to replace 2–3 day manual review cycles</li>
               </ul>
             </div>
           </div>
