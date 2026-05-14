@@ -9,7 +9,7 @@ export default function SiteHeader() {
   return (
     <header className="absolute top-0 left-0 right-0 z-40 px-6 py-6 flex flex-col md:flex-row justify-between items-center gap-4 max-w-7xl mx-auto w-full">
       <div className="font-semibold text-[#1C1E21] dark:text-white tracking-tight text-lg">
-        Amazon <span className="text-[#2563EB]">AI Generalist</span>
+         <span className="text-[#2563EB]">AI Generalist</span>
       </div>
       <div className="flex bg-white dark:bg-[#1C1E21] p-1 rounded-full border border-slate-200 dark:border-white/10 shadow-sm">
         <Link
